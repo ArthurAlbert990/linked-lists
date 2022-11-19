@@ -12,12 +12,6 @@ console.log('app.js working');
 // if you set the current equals to the nextNode and count++
 // you moved the cursor one step ahead down the list.
 
-//18:30 às 19:20.
-//19:44 às 19:57.
-//20:27 às 20:34.
-//20:43 às 21:00.
-//07:55 às 08:20.
-//08:35 às 09:33.
 
 
 class LinkedList{
